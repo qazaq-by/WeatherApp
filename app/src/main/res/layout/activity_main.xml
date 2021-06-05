@@ -51,7 +51,7 @@
         android:id="@+id/result_info"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/main_button"
+        android:layout_below="@id/main_btn"
         android:fontFamily="@font/montserrat_bold"
         android:textAlignment="center"
         android:textColor="@color/textColorHint"
